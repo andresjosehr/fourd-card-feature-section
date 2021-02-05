@@ -31,7 +31,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/fonts.scss",
+              "src/variables.scss"
             ],
             "scripts": []
           },
@@ -127,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "app"
+  "defaultProject": "app",
+  "cli": {
+    "analytics": "fbbb77f2-e646-4fb9-83a3-5dd54641766e"
+  }
 }
